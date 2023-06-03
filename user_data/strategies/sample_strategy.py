@@ -149,7 +149,7 @@ class SampleStrategy(IStrategy):
         # dataframe['minus_di'] = ta.MINUS_DI(dataframe)
 
         # # Aroon, Aroon Oscillator
-        # aroon = ta.AROON(dataframe)
+        # aroon = t a.AROON(dataframe)
         # dataframe['aroonup'] = aroon['aroonup']
         # dataframe['aroondown'] = aroon['aroondown']
         # dataframe['aroonosc'] = ta.AROONOSC(dataframe)
