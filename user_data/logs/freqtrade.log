@@ -82,3 +82,548 @@
 2023-06-03 10:50:08,884 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
 2023-06-03 10:51:08,934 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
 2023-06-03 10:52:08,983 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 10:53:09,033 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 10:54:09,084 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 10:55:11,812 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 10:56:11,860 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 10:57:11,912 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 10:58:11,961 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 10:59:12,012 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:00:06,788 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 11:00:16,797 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:01:16,846 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:02:16,897 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:03:16,943 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:04:16,995 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:05:21,701 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:06:21,753 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:07:21,804 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:08:21,856 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:09:21,909 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:10:26,693 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:11:26,742 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:12:26,792 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:13:26,843 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:14:26,897 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:15:06,715 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 11:15:31,736 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:16:31,787 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:17:31,838 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:18:02,044 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'LTC/USDT:USDT', 'ARB/USDT:USDT', 'TRX/USDT:USDT', '1000PEPE/USDT:USDT', 'COMBO/USDT:USDT', 'INJ/USDT:USDT', 'LDO/USDT:USDT', 'OP/USDT:USDT', 'SOL/USDT:USDT', 'SUI/USDT:USDT', 'MASK/USDT:USDT', 'ARPA/USDT:USDT', 'APT/USDT:USDT', 'KEY/USDT:USDT', 'DOGE/USDT:USDT']
+2023-06-03 11:18:31,891 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:19:31,943 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:20:36,755 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:21:36,802 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:22:36,852 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:23:36,905 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:24:36,955 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:25:41,781 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:26:41,832 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:27:41,882 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:28:41,932 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:29:41,979 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:30:06,836 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 11:30:46,871 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:31:46,924 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:32:46,976 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:33:47,021 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:34:47,071 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:35:51,707 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:36:51,760 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:37:51,812 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:38:51,864 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:39:51,914 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:40:53,672 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:41:53,723 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:42:53,770 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:43:53,822 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:44:53,873 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:45:06,443 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 11:45:56,487 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:46:56,539 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:47:56,590 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:48:09,047 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2023-06-03 11:48:09,057 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'LTC/USDT:USDT', 'ARB/USDT:USDT', 'TRX/USDT:USDT', '1000PEPE/USDT:USDT', 'COMBO/USDT:USDT', 'OP/USDT:USDT', 'INJ/USDT:USDT', 'LDO/USDT:USDT', 'SOL/USDT:USDT', 'SUI/USDT:USDT', 'MASK/USDT:USDT', 'ARPA/USDT:USDT', 'APT/USDT:USDT', 'KEY/USDT:USDT', 'DOGE/USDT:USDT']
+2023-06-03 11:48:56,640 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:49:56,690 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:50:56,755 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:51:56,801 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:52:56,854 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:53:56,905 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:54:56,955 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:56:01,822 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:57:01,873 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:58:01,924 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 11:59:01,975 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:00:06,824 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 12:00:06,826 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:01:06,875 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:02:06,924 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:03:06,975 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:04:07,021 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:05:11,688 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:06:11,739 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:07:11,790 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:08:11,839 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:09:11,890 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:10:16,681 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:11:16,727 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:12:16,780 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:13:16,832 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:14:16,886 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:15:06,668 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 12:15:21,677 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:16:21,729 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:17:21,781 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:18:12,004 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'LTC/USDT:USDT', 'TRX/USDT:USDT', 'ARB/USDT:USDT', '1000PEPE/USDT:USDT', 'COMBO/USDT:USDT', 'INJ/USDT:USDT', 'OP/USDT:USDT', 'LDO/USDT:USDT', 'SOL/USDT:USDT', 'SUI/USDT:USDT', 'MASK/USDT:USDT', 'ARPA/USDT:USDT', 'APT/USDT:USDT', 'KEY/USDT:USDT', 'DOGE/USDT:USDT']
+2023-06-03 12:18:21,833 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:19:21,886 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:20:26,680 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:21:26,733 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:22:26,785 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:23:26,837 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:24:26,887 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:25:31,767 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:26:31,817 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:27:31,868 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:28:31,918 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:29:31,968 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:30:06,786 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 12:30:36,811 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:31:36,862 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:32:36,912 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:33:36,963 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:34:37,013 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:35:06,778 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 12:35:06,847 - freqtrade.freqtradebot - INFO - Long signal found: about create a new trade for AMB/USDT:USDT with stake_amount: 330.0 ...
+2023-06-03 12:35:06,935 - freqtrade.freqtradebot - INFO - Order #dry_run_buy_1685795706.849739 was created for AMB/USDT:USDT and status is open.
+2023-06-03 12:35:07,567 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 12:35:07,568 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 1, 'type': entry, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'AMB/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 0.01363, 'open_rate': 0.01363, 'order_type': 'limit', 'stake_amount': 330.0, 'stake_currency': 'USDT', 'base_currency': 'AMB', 'fiat_currency': 'USD', 'amount': 24211.0, 'open_date': datetime.datetime(2023, 6, 3, 12, 35, 6, 936288, tzinfo=datetime.timezone.utc), 'current_rate': 0.01363, 'sub_trade': False}
+2023-06-03 12:35:09,663 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=1, pair=AMB/USDT:USDT, amount=24211.29860602, is_short=False, leverage=1.0, open_rate=0.01363000, open_since=2023-06-03 12:35:06)
+2023-06-03 12:35:09,680 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=1, pair=AMB/USDT:USDT, amount=24211.29860602, is_short=False, leverage=1.0, open_rate=0.01363000, open_since=2023-06-03 12:35:06) [buy]: 0.065999186 USDT - rate: 0.0002
+2023-06-03 12:35:09,681 - freqtrade.persistence.trade_model - INFO - Updating trade (id=1) ...
+2023-06-03 12:35:09,682 - freqtrade.persistence.trade_model - INFO - LIMIT_BUY has been fulfilled for Trade(id=1, pair=AMB/USDT:USDT, amount=24211.00000000, is_short=False, leverage=1.0, open_rate=0.01363000, open_since=2023-06-03 12:35:06).
+2023-06-03 12:35:09,694 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 12:35:09,703 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 1, 'type': entry_fill, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'AMB/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 0.01363, 'open_rate': 0.01363, 'order_type': 'limit', 'stake_amount': 329.99593, 'stake_currency': 'USDT', 'base_currency': 'AMB', 'fiat_currency': 'USD', 'amount': 24211.0, 'open_date': datetime.datetime(2023, 6, 3, 12, 35, 6, 936288, tzinfo=datetime.timezone.utc), 'current_rate': 0.01363, 'sub_trade': False}
+2023-06-03 12:35:37,628 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:36:37,677 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:37:37,727 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:38:37,776 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:39:37,825 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:40:39,012 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:41:39,061 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:42:39,108 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:43:39,158 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:44:39,208 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:45:07,603 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 12:45:42,632 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:46:42,681 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:47:42,731 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:48:12,926 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2023-06-03 12:48:12,938 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'LTC/USDT:USDT', 'TRX/USDT:USDT', 'ARB/USDT:USDT', '1000PEPE/USDT:USDT', 'COMBO/USDT:USDT', 'OP/USDT:USDT', 'INJ/USDT:USDT', 'LDO/USDT:USDT', 'SUI/USDT:USDT', 'SOL/USDT:USDT', 'ARPA/USDT:USDT', 'MASK/USDT:USDT', 'KEY/USDT:USDT', 'APT/USDT:USDT', 'NKN/USDT:USDT']
+2023-06-03 12:48:42,776 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:49:42,826 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:50:46,873 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:51:46,923 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:52:46,972 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:53:47,022 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:54:47,071 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:55:51,849 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:56:51,897 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:57:51,944 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:58:51,993 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 12:59:52,043 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:00:07,466 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:00:52,503 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:01:52,552 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:02:52,605 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:03:52,653 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:04:52,704 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:05:06,721 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:05:06,784 - freqtrade.freqtradebot - INFO - Long signal found: about create a new trade for KEY/USDT:USDT with stake_amount: 330.0 ...
+2023-06-03 13:05:06,875 - freqtrade.freqtradebot - INFO - Order #dry_run_buy_1685797506.786038 was created for KEY/USDT:USDT and status is open.
+2023-06-03 13:05:07,480 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:05:07,481 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 2, 'type': entry, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'KEY/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 0.008322, 'open_rate': 0.008322, 'order_type': 'limit', 'stake_amount': 330.0, 'stake_currency': 'USDT', 'base_currency': 'KEY', 'fiat_currency': 'USD', 'amount': 39653.0, 'open_date': datetime.datetime(2023, 6, 3, 13, 5, 6, 877112, tzinfo=datetime.timezone.utc), 'current_rate': 0.008322, 'sub_trade': False}
+2023-06-03 13:05:09,442 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:12,580 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:19,420 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:22,587 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:29,436 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:32,592 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:39,433 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:42,600 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:49,436 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:52,614 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:05:57,527 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:05:59,492 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:02,623 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:09,492 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:12,630 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:19,482 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:22,634 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:29,471 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:32,649 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:39,617 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:42,655 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:49,507 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:52,661 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:06:57,578 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:06:59,547 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:02,671 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:09,492 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:12,675 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:19,524 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:22,685 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:29,528 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:32,695 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:39,532 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:42,699 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:49,662 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:52,710 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:57,628 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:07:59,542 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 13:07:59,558 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=2, pair=KEY/USDT:USDT, amount=39653.92934391, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06) [buy]: 0.065998453 USDT - rate: 0.0002
+2023-06-03 13:07:59,559 - freqtrade.persistence.trade_model - INFO - Updating trade (id=2) ...
+2023-06-03 13:07:59,560 - freqtrade.persistence.trade_model - INFO - LIMIT_BUY has been fulfilled for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06).
+2023-06-03 13:07:59,567 - freqtrade.freqtradebot - WARNING - Unable to calculate liquidation price
+2023-06-03 13:07:59,571 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:07:59,574 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 2, 'type': entry_fill, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'KEY/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 0.008322, 'open_rate': 0.008322, 'order_type': 'limit', 'stake_amount': 329.992266, 'stake_currency': 'USDT', 'base_currency': 'KEY', 'fiat_currency': 'USD', 'amount': 39653.0, 'open_date': datetime.datetime(2023, 6, 3, 13, 5, 6, 877112, tzinfo=datetime.timezone.utc), 'current_rate': 0.008322, 'sub_trade': False}
+2023-06-03 13:08:57,679 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:09:57,724 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:11:01,878 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:12:01,928 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:13:01,979 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:14:02,030 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:15:07,782 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:15:07,783 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:16:07,833 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:17:07,884 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:18:07,935 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:18:13,120 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'LTC/USDT:USDT', 'TRX/USDT:USDT', 'ARB/USDT:USDT', '1000PEPE/USDT:USDT', 'COMBO/USDT:USDT', 'OP/USDT:USDT', 'INJ/USDT:USDT', 'LDO/USDT:USDT', 'SUI/USDT:USDT', 'SOL/USDT:USDT', 'ARPA/USDT:USDT', 'MASK/USDT:USDT', 'KEY/USDT:USDT', 'NKN/USDT:USDT', 'APT/USDT:USDT']
+2023-06-03 13:19:07,986 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:20:10,017 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:21:10,066 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:22:10,114 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:23:10,163 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:24:10,214 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:25:13,684 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:26:13,736 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:27:13,786 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:28:13,838 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:29:13,889 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:30:06,606 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:30:06,665 - freqtrade.freqtradebot - INFO - Long signal found: about create a new trade for APT/USDT:USDT with stake_amount: 330.0 ...
+2023-06-03 13:30:06,763 - freqtrade.freqtradebot - INFO - Order #dry_run_buy_1685799006.666869 was created for APT/USDT:USDT and status is open.
+2023-06-03 13:30:07,358 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:30:07,359 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 3, 'type': entry, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'APT/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 9.05, 'open_rate': 9.05, 'order_type': 'limit', 'stake_amount': 330.0, 'stake_currency': 'USDT', 'base_currency': 'APT', 'fiat_currency': 'USD', 'amount': 36.4, 'open_date': datetime.datetime(2023, 6, 3, 13, 30, 6, 764526, tzinfo=datetime.timezone.utc), 'current_rate': 9.05, 'sub_trade': False}
+2023-06-03 13:30:08,505 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:30:10,448 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=3, pair=APT/USDT:USDT, amount=36.46408840, is_short=False, leverage=1.0, open_rate=9.05000000, open_since=2023-06-03 13:30:06)
+2023-06-03 13:30:10,456 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=3, pair=APT/USDT:USDT, amount=36.46408840, is_short=False, leverage=1.0, open_rate=9.05000000, open_since=2023-06-03 13:30:06) [buy]: 0.065884 USDT - rate: 0.0002
+2023-06-03 13:30:10,457 - freqtrade.persistence.trade_model - INFO - Updating trade (id=3) ...
+2023-06-03 13:30:10,458 - freqtrade.persistence.trade_model - INFO - LIMIT_BUY has been fulfilled for Trade(id=3, pair=APT/USDT:USDT, amount=36.40000000, is_short=False, leverage=1.0, open_rate=9.05000000, open_since=2023-06-03 13:30:06).
+2023-06-03 13:30:10,467 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:30:10,474 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 3, 'type': entry_fill, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'APT/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 9.05, 'open_rate': 9.05, 'order_type': 'limit', 'stake_amount': 329.42, 'stake_currency': 'USDT', 'base_currency': 'APT', 'fiat_currency': 'USD', 'amount': 36.4, 'open_date': datetime.datetime(2023, 6, 3, 13, 30, 6, 764526, tzinfo=datetime.timezone.utc), 'current_rate': 9.05, 'sub_trade': False}
+2023-06-03 13:30:18,514 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:31:18,563 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:32:18,613 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:33:18,658 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:34:18,707 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:35:21,465 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:36:21,514 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:37:21,564 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:38:21,612 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:39:21,657 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:40:22,020 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:41:22,069 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:42:22,118 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:43:22,166 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:44:22,214 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:45:08,222 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 13:45:23,235 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:46:23,284 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:47:23,333 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:48:13,543 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2023-06-03 13:48:13,552 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'LTC/USDT:USDT', 'TRX/USDT:USDT', 'ARB/USDT:USDT', '1000PEPE/USDT:USDT', 'COMBO/USDT:USDT', 'OP/USDT:USDT', 'INJ/USDT:USDT', 'SUI/USDT:USDT', 'LDO/USDT:USDT', 'SOL/USDT:USDT', 'ARPA/USDT:USDT', 'MASK/USDT:USDT', 'KEY/USDT:USDT', 'LEVER/USDT:USDT', 'NKN/USDT:USDT']
+2023-06-03 13:48:23,380 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:49:23,427 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:50:26,471 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:51:26,522 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:52:26,571 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:53:26,620 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:54:26,669 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:55:27,179 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:56:27,229 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:57:27,279 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:58:27,324 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 13:59:27,374 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:00:08,514 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:00:28,532 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:01:28,582 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:02:28,632 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:03:20,587 - freqtrade.freqtradebot - INFO - Exit for AMB/USDT:USDT detected. Reason: roi
+2023-06-03 14:03:20,983 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:03:21,033 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': exit, 'trade_id': 1, 'exchange': 'Binance', 'pair': 'AMB/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'gain': 'profit', 'limit': 0.01394, 'order_rate': 0.01394, 'order_type': 'limit', 'amount': 24211.0, 'open_rate': 0.01363, 'close_rate': 0.01394, 'current_rate': 0.01394, 'profit_amount': 7.37191055, 'profit_ratio': 0.02233493, 'buy_tag': None, 'enter_tag': None, 'sell_reason': 'roi', 'exit_reason': 'roi', 'open_date': datetime.datetime(2023, 6, 3, 12, 35, 6, 936288, tzinfo=datetime.timezone.utc), 'close_date': datetime.datetime(2023, 6, 3, 14, 3, 21, 33096, tzinfo=datetime.timezone.utc), 'stake_amount': 329.99593, 'stake_currency': 'USDT', 'base_currency': 'AMB', 'fiat_currency': 'USD', 'sub_trade': False, 'cumulative_profit': 0.0}
+2023-06-03 14:03:21,034 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=1, pair=AMB/USDT:USDT, amount=24211.00000000, is_short=False, leverage=1.0, open_rate=0.01363000, open_since=2023-06-03 12:35:06)
+2023-06-03 14:03:21,044 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=1, pair=AMB/USDT:USDT, amount=24211.00000000, is_short=False, leverage=1.0, open_rate=0.01363000, open_since=2023-06-03 12:35:06) [sell]: 0.13500054 USDT - rate: 0.0004
+2023-06-03 14:03:21,044 - freqtrade.persistence.trade_model - INFO - Updating trade (id=1) ...
+2023-06-03 14:03:21,045 - freqtrade.persistence.trade_model - INFO - LIMIT_SELL has been fulfilled for Trade(id=1, pair=AMB/USDT:USDT, amount=24211.00000000, is_short=False, leverage=1.0, open_rate=0.01363000, open_since=2023-06-03 12:35:06).
+2023-06-03 14:03:21,046 - freqtrade.persistence.trade_model - INFO - Marking Trade(id=1, pair=AMB/USDT:USDT, amount=24211.00000000, is_short=False, leverage=1.0, open_rate=0.01363000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2023-06-03 14:03:21,066 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:03:21,069 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': exit_fill, 'trade_id': 1, 'exchange': 'Binance', 'pair': 'AMB/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'gain': 'profit', 'limit': 0.01394, 'order_rate': 0.01394, 'order_type': '', 'amount': 24211.0, 'open_rate': 0.01363, 'close_rate': 0.01394, 'current_rate': None, 'profit_amount': 7.30441028, 'profit_ratio': 0.02213042, 'buy_tag': None, 'enter_tag': None, 'sell_reason': 'roi', 'exit_reason': 'roi', 'open_date': datetime.datetime(2023, 6, 3, 12, 35, 6, 936288, tzinfo=datetime.timezone.utc), 'close_date': datetime.datetime(2023, 6, 3, 14, 3, 21, 46389, tzinfo=datetime.timezone.utc), 'stake_amount': 329.99593, 'stake_currency': 'USDT', 'base_currency': 'AMB', 'fiat_currency': 'USD', 'sub_trade': False, 'cumulative_profit': 7.30441028}
+2023-06-03 14:03:21,237 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:03:21,253 - freqtrade.freqtradebot - INFO - Pair AMB/USDT:USDT * is locked until 2023-06-03 14:05:00 due to Auto lock.
+2023-06-03 14:03:28,681 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:04:28,731 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:05:31,690 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:06:31,741 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:07:31,792 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:08:31,843 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:09:31,894 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:10:32,123 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:11:32,175 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:12:32,226 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:13:32,275 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:14:32,327 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:15:08,049 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:15:33,071 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:16:33,121 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:17:33,172 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:18:20,588 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'LTC/USDT:USDT', 'TRX/USDT:USDT', '1000PEPE/USDT:USDT', 'ARB/USDT:USDT', 'COMBO/USDT:USDT', 'OP/USDT:USDT', 'SUI/USDT:USDT', 'INJ/USDT:USDT', 'LDO/USDT:USDT', 'ARPA/USDT:USDT', 'SOL/USDT:USDT', 'MASK/USDT:USDT', 'LEVER/USDT:USDT', 'KEY/USDT:USDT', 'NKN/USDT:USDT']
+2023-06-03 14:18:33,215 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:19:33,265 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:20:36,241 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:21:08,222 - freqtrade.freqtradebot - INFO - Exit for KEY/USDT:USDT detected. Reason: roi
+2023-06-03 14:21:08,611 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:21:08,661 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': exit, 'trade_id': 2, 'exchange': 'Binance', 'pair': 'KEY/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'gain': 'profit', 'limit': 0.008415, 'order_rate': 0.008415, 'order_type': 'limit', 'amount': 39653.0, 'open_rate': 0.008322, 'close_rate': 0.008415, 'current_rate': 0.008415, 'profit_amount': 3.55499455, 'profit_ratio': 0.01077081, 'buy_tag': None, 'enter_tag': None, 'sell_reason': 'roi', 'exit_reason': 'roi', 'open_date': datetime.datetime(2023, 6, 3, 13, 5, 6, 877112, tzinfo=datetime.timezone.utc), 'close_date': datetime.datetime(2023, 6, 3, 14, 21, 8, 661681, tzinfo=datetime.timezone.utc), 'stake_amount': 329.992266, 'stake_currency': 'USDT', 'base_currency': 'KEY', 'fiat_currency': 'USD', 'sub_trade': False, 'cumulative_profit': 0.0}
+2023-06-03 14:21:08,767 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:21:11,358 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 14:21:18,233 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 14:21:21,366 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 14:21:28,195 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 14:21:31,374 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06)
+2023-06-03 14:21:31,381 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06) [sell]: 0.066735999 USDT - rate: 0.0002
+2023-06-03 14:21:31,382 - freqtrade.persistence.trade_model - INFO - Updating trade (id=2) ...
+2023-06-03 14:21:31,383 - freqtrade.persistence.trade_model - INFO - LIMIT_SELL has been fulfilled for Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=2023-06-03 13:05:06).
+2023-06-03 14:21:31,384 - freqtrade.persistence.trade_model - INFO - Marking Trade(id=2, pair=KEY/USDT:USDT, amount=39653.00000000, is_short=False, leverage=1.0, open_rate=0.00832200, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2023-06-03 14:21:31,393 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:21:31,396 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': exit_fill, 'trade_id': 2, 'exchange': 'Binance', 'pair': 'KEY/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'gain': 'profit', 'limit': 0.008415, 'order_rate': 0.008415, 'order_type': '', 'amount': 39653.0, 'open_rate': 0.008322, 'close_rate': 0.008415, 'current_rate': None, 'profit_amount': 3.55499455, 'profit_ratio': 0.01077081, 'buy_tag': None, 'enter_tag': None, 'sell_reason': 'roi', 'exit_reason': 'roi', 'open_date': datetime.datetime(2023, 6, 3, 13, 5, 6, 877112, tzinfo=datetime.timezone.utc), 'close_date': datetime.datetime(2023, 6, 3, 14, 21, 31, 384251, tzinfo=datetime.timezone.utc), 'stake_amount': 329.992266, 'stake_currency': 'USDT', 'base_currency': 'KEY', 'fiat_currency': 'USD', 'sub_trade': False, 'cumulative_profit': 3.55499455}
+2023-06-03 14:21:36,290 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:22:36,342 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:23:36,394 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:24:36,446 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:25:37,018 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:26:37,070 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:27:37,122 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:28:37,174 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:29:37,226 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:30:07,588 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:30:37,614 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:31:37,664 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:32:37,715 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:33:37,764 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:34:37,816 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:35:42,040 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:36:42,093 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:37:42,144 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:38:42,195 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:39:42,244 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:40:47,077 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:41:47,128 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:42:47,178 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:43:47,228 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:44:47,278 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:45:07,632 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 14:45:47,666 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:46:47,717 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:47:47,766 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:48:22,982 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2023-06-03 14:48:22,993 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'TRX/USDT:USDT', 'LTC/USDT:USDT', '1000PEPE/USDT:USDT', 'ARB/USDT:USDT', 'COMBO/USDT:USDT', 'OP/USDT:USDT', 'SUI/USDT:USDT', 'INJ/USDT:USDT', 'LDO/USDT:USDT', 'ARPA/USDT:USDT', 'SOL/USDT:USDT', 'LEVER/USDT:USDT', 'MASK/USDT:USDT', 'KEY/USDT:USDT', 'NKN/USDT:USDT']
+2023-06-03 14:48:47,816 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:49:47,863 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:50:52,126 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:51:52,177 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:52:52,226 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:53:52,277 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:54:52,326 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:55:52,387 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:56:52,437 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:57:52,486 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:58:52,535 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 14:59:52,584 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:00:07,704 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:00:52,742 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:01:52,791 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:02:52,841 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:03:52,890 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:04:52,940 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:05:56,329 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:06:56,380 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:07:56,430 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:08:56,480 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:09:56,529 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:10:57,117 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:11:57,166 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:12:57,216 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:13:57,266 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:14:57,318 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:15:07,598 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:15:57,641 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:16:57,693 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:17:57,739 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:18:30,333 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'TRX/USDT:USDT', 'LTC/USDT:USDT', '1000PEPE/USDT:USDT', 'ARB/USDT:USDT', 'COMBO/USDT:USDT', 'OP/USDT:USDT', 'SUI/USDT:USDT', 'INJ/USDT:USDT', 'LEVER/USDT:USDT', 'LDO/USDT:USDT', 'ARPA/USDT:USDT', 'SOL/USDT:USDT', 'MASK/USDT:USDT', 'KEY/USDT:USDT', 'SXP/USDT:USDT']
+2023-06-03 15:18:57,790 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:19:57,838 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:20:07,023 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:20:07,106 - freqtrade.freqtradebot - INFO - Long signal found: about create a new trade for TRX/USDT:USDT with stake_amount: 333.5836035939001 ...
+2023-06-03 15:20:07,203 - freqtrade.freqtradebot - INFO - Order #dry_run_buy_1685805607.107254 was created for TRX/USDT:USDT and status is open.
+2023-06-03 15:20:07,253 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:20:07,254 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 4, 'type': entry, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'TRX/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 0.08268, 'open_rate': 0.08268, 'order_type': 'limit', 'stake_amount': 333.5836035939001, 'stake_currency': 'USDT', 'base_currency': 'TRX', 'fiat_currency': 'USD', 'amount': 4034.0, 'open_date': datetime.datetime(2023, 6, 3, 15, 20, 7, 204555, tzinfo=datetime.timezone.utc), 'current_rate': 0.08268, 'sub_trade': False}
+2023-06-03 15:20:09,909 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=4, pair=TRX/USDT:USDT, amount=4034.63477980, is_short=False, leverage=1.0, open_rate=0.08268000, open_since=2023-06-03 15:20:07)
+2023-06-03 15:20:09,920 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=4, pair=TRX/USDT:USDT, amount=4034.63477980, is_short=False, leverage=1.0, open_rate=0.08268000, open_since=2023-06-03 15:20:07) [buy]: 0.066706224 USDT - rate: 0.0002
+2023-06-03 15:20:09,921 - freqtrade.persistence.trade_model - INFO - Updating trade (id=4) ...
+2023-06-03 15:20:09,922 - freqtrade.persistence.trade_model - INFO - LIMIT_BUY has been fulfilled for Trade(id=4, pair=TRX/USDT:USDT, amount=4034.00000000, is_short=False, leverage=1.0, open_rate=0.08268000, open_since=2023-06-03 15:20:07).
+2023-06-03 15:20:09,933 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:20:09,941 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 4, 'type': entry_fill, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'TRX/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 0.08268, 'open_rate': 0.08268, 'order_type': 'limit', 'stake_amount': 333.53112, 'stake_currency': 'USDT', 'base_currency': 'TRX', 'fiat_currency': 'USD', 'amount': 4034.0, 'open_date': datetime.datetime(2023, 6, 3, 15, 20, 7, 204555, tzinfo=datetime.timezone.utc), 'current_rate': 0.08268, 'sub_trade': False}
+2023-06-03 15:21:02,331 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:22:02,380 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:23:02,429 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:24:02,478 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:25:07,087 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:25:07,179 - freqtrade.freqtradebot - INFO - Long signal found: about create a new trade for ETH/USDT:USDT with stake_amount: 333.5836035939 ...
+2023-06-03 15:25:07,270 - freqtrade.freqtradebot - INFO - Order #dry_run_buy_1685805907.180661 was created for ETH/USDT:USDT and status is open.
+2023-06-03 15:25:07,309 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:25:07,310 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 5, 'type': entry, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'ETH/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 1899.02, 'open_rate': 1899.02, 'order_type': 'limit', 'stake_amount': 333.5836035939, 'stake_currency': 'USDT', 'base_currency': 'ETH', 'fiat_currency': 'USD', 'amount': 0.175, 'open_date': datetime.datetime(2023, 6, 3, 15, 25, 7, 272044, tzinfo=datetime.timezone.utc), 'current_rate': 1899.02, 'sub_trade': False}
+2023-06-03 15:25:07,325 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:25:09,886 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:12,415 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:19,280 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:22,423 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:29,315 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:32,429 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:39,320 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:42,438 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:49,330 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:52,447 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:25:59,407 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:26:02,454 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:26:07,373 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:26:09,427 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:26:12,465 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:26:19,311 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:26:22,473 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:26:29,334 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07)
+2023-06-03 15:26:29,343 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=5, pair=ETH/USDT:USDT, amount=0.17566092, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07) [buy]: 0.0664657 USDT - rate: 0.0002
+2023-06-03 15:26:29,344 - freqtrade.persistence.trade_model - INFO - Updating trade (id=5) ...
+2023-06-03 15:26:29,345 - freqtrade.persistence.trade_model - INFO - LIMIT_BUY has been fulfilled for Trade(id=5, pair=ETH/USDT:USDT, amount=0.17500000, is_short=False, leverage=1.0, open_rate=1899.02000000, open_since=2023-06-03 15:25:07).
+2023-06-03 15:26:29,355 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:26:29,363 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 5, 'type': entry_fill, 'buy_tag': None, 'enter_tag': None, 'exchange': 'Binance', 'pair': 'ETH/USDT:USDT', 'leverage': 1.0, 'direction': 'Long', 'limit': 1899.02, 'open_rate': 1899.02, 'order_type': 'limit', 'stake_amount': 332.3285, 'stake_currency': 'USDT', 'base_currency': 'ETH', 'fiat_currency': 'USD', 'amount': 0.175, 'open_date': datetime.datetime(2023, 6, 3, 15, 25, 7, 272044, tzinfo=datetime.timezone.utc), 'current_rate': 1899.02, 'sub_trade': False}
+2023-06-03 15:27:07,421 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:28:07,469 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:29:07,518 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:30:07,791 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:30:07,793 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:31:07,841 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:32:07,885 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:33:07,933 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:34:07,980 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:35:09,557 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:36:09,604 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:37:09,652 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:38:09,701 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:39:09,751 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:40:12,992 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:41:13,040 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:42:13,087 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:43:13,135 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:44:13,184 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:45:07,028 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 15:45:17,034 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:46:17,083 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:47:17,131 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:48:17,180 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:48:32,373 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2023-06-03 15:48:32,383 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'LINA/USDT:USDT', 'AMB/USDT:USDT', 'XRP/USDT:USDT', 'TRX/USDT:USDT', 'LTC/USDT:USDT', '1000PEPE/USDT:USDT', 'ARB/USDT:USDT', 'OP/USDT:USDT', 'COMBO/USDT:USDT', 'SUI/USDT:USDT', 'LEVER/USDT:USDT', 'INJ/USDT:USDT', 'ARPA/USDT:USDT', 'LDO/USDT:USDT', 'SOL/USDT:USDT', 'MASK/USDT:USDT', 'SXP/USDT:USDT', 'KEY/USDT:USDT']
+2023-06-03 15:49:17,227 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:50:22,220 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:51:22,265 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:52:22,311 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:53:22,359 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:54:22,404 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:55:27,205 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:56:27,254 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:57:27,302 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:58:27,350 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 15:59:27,399 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:00:08,326 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 16:00:28,349 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:01:28,395 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:02:28,440 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:03:28,489 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:04:28,537 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:05:31,639 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:06:31,683 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:07:31,733 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:08:31,782 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:09:31,830 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:10:32,197 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:11:32,245 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:12:32,293 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:13:32,339 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:14:32,386 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:15:08,354 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 16:15:33,374 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:16:33,422 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:17:33,470 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:18:33,518 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:18:33,707 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'AMB/USDT:USDT', 'LINA/USDT:USDT', 'XRP/USDT:USDT', 'TRX/USDT:USDT', 'LTC/USDT:USDT', '1000PEPE/USDT:USDT', 'ARB/USDT:USDT', 'OP/USDT:USDT', 'LEVER/USDT:USDT', 'SUI/USDT:USDT', 'COMBO/USDT:USDT', 'INJ/USDT:USDT', 'ARPA/USDT:USDT', 'SOL/USDT:USDT', 'MASK/USDT:USDT', 'LDO/USDT:USDT', 'SXP/USDT:USDT', 'KEY/USDT:USDT']
+2023-06-03 16:19:33,566 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:20:36,696 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:21:36,744 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:22:36,793 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:23:36,841 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:24:36,887 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:25:37,217 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:26:37,266 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:27:37,315 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:28:37,364 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:29:37,413 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:30:08,575 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 16:30:38,601 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:31:38,649 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:32:38,698 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:33:38,746 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:34:38,794 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:35:41,871 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:36:41,921 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:37:41,971 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:38:42,021 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:39:42,071 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:40:42,195 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:41:42,246 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:42:42,297 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:43:42,346 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:44:42,397 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:45:08,310 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 16:45:43,339 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:46:43,387 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:47:43,437 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:48:40,849 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2023-06-03 16:48:40,858 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['BTC/USDT:USDT', 'ETH/USDT:USDT', 'AMB/USDT:USDT', 'LINA/USDT:USDT', 'XRP/USDT:USDT', 'TRX/USDT:USDT', 'LTC/USDT:USDT', '1000PEPE/USDT:USDT', 'ARB/USDT:USDT', 'LEVER/USDT:USDT', 'OP/USDT:USDT', 'SUI/USDT:USDT', 'INJ/USDT:USDT', 'COMBO/USDT:USDT', 'SOL/USDT:USDT', 'ARPA/USDT:USDT', 'LDO/USDT:USDT', 'SXP/USDT:USDT', 'MASK/USDT:USDT', 'KEY/USDT:USDT']
+2023-06-03 16:48:43,487 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:49:43,534 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:50:46,573 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:51:46,623 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:52:46,672 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:53:46,723 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:54:46,773 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:55:47,602 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:56:47,650 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:57:47,698 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:58:47,748 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 16:59:47,798 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 17:00:08,393 - freqtrade.wallets - INFO - Wallets synced.
+2023-06-03 17:00:48,429 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 17:01:48,472 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 17:02:48,517 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 17:03:48,561 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
+2023-06-03 17:04:48,608 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2023.5', state='RUNNING'
